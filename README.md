@@ -1,6 +1,6 @@
-# flutter_ui
+# Relate_X_Front
 
-A new Flutter project.
+A Flutter project for Relate X Frontend.
 
 ## Getting Started
 
